@@ -1,0 +1,1 @@
+spring.data.mongodb.uri: mongodb://test:test@ds045464.mongolab.com:45464/esercizi
